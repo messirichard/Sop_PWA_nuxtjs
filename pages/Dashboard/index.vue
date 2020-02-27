@@ -1,10 +1,16 @@
 <template>
+  <!-- <Dashboard /> -->
   <div>
-    <Header />
-    <p>jhvhgv</p>
-    <Footer />
+    <p>ini dashboard</p>
   </div>
 </template>
+
 <script>
-export default {}
+// import Dashboard from '../../layouts/default.vue'
+
+export default {
+  components: {
+    // Dashboard
+  }
+}
 </script>
